@@ -1,0 +1,10 @@
+{
+  "simulation": "LPS.LandingHomepage",
+  "simulationId": "landinghomepage",
+  "start": 1571383785742,
+  "description": "",
+  "scenarios": ["LandingHomepage"],
+  "assertions": [
+
+  ]
+}

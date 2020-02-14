@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.OrderPlaced_B1",
+  "simulationId": "orderplaced-b1",
+  "start": 1556193129028,
+  "description": "",
+  "scenarios": ["RegCheckoutB1"],
+  "assertions": [
+
+  ]
+}

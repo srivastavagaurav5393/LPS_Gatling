@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.AddToCart3",
+  "simulationId": "addtocart3",
+  "start": 1558723235741,
+  "description": "",
+  "scenarios": ["AddToCart3"],
+  "assertions": [
+
+  ]
+}

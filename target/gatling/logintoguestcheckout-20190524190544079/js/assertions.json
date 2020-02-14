@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.LoginToGuestCheckout",
+  "simulationId": "logintoguestcheckout",
+  "start": 1558724744079,
+  "description": "",
+  "scenarios": ["LogInAsGuestCheckout"],
+  "assertions": [
+
+  ]
+}

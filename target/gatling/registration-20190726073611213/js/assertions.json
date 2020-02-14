@@ -1,0 +1,10 @@
+{
+  "simulation": "LPS.Registration",
+  "simulationId": "registration",
+  "start": 1564126571213,
+  "description": "",
+  "scenarios": ["Registration"],
+  "assertions": [
+
+  ]
+}

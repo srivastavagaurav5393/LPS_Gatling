@@ -1,0 +1,10 @@
+{
+  "simulation": "LPS.UserLoginPragiti1",
+  "simulationId": "userloginpragiti1",
+  "start": 1564126865874,
+  "description": "",
+  "scenarios": ["UserLoginPragiti1"],
+  "assertions": [
+
+  ]
+}

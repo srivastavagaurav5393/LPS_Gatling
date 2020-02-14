@@ -1,0 +1,4 @@
+RUN	LPS.LandingHomepage	landinghomepage	1581703882566	 	3.2.0
+USER	LandingHomepage	1	START	1581703884142	1581703884142
+REQUEST	1		request_0	1581703884200	1581703884264	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: fsx-qa.pragiti.com/182.74.127.134:443
+USER	LandingHomepage	1	END	1581703884142	1581703884295
