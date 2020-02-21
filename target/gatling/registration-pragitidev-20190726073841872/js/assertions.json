@@ -1,0 +1,10 @@
+{
+  "simulation": "LPS.Registration_PragitiDev",
+  "simulationId": "registration-pragitidev",
+  "start": 1564126721872,
+  "description": "",
+  "scenarios": ["Registration_PragitiDev"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,21 @@
+RUN	computerdatabase.AddToCart3	addtocart3	1558723235741	 	3.1.2
+USER	AddToCart3	1	START	1558723237284	1558723237284
+REQUEST	1		request_0	1558723237325	1558723242329	KO	j.n.UnknownHostException: electronics.local: Name or service not known
+REQUEST	1		request_1	1558723251353	1558723251353	KO	j.n.UnknownHostException: electronics.local
+ERROR	request_2: Failed to build request: No attribute named 'requestVerificationToken' is defined 	1558723259358
+REQUEST	1		request_1	1558723259358	1558723264360	KO	j.n.UnknownHostException: electronics.local: Name or service not known
+REQUEST	1		request_3	1558723282353	1558723287355	KO	j.n.UnknownHostException: electronics.local: Name or service not known
+ERROR	request_4: Failed to build request: No attribute named 'requestVerificationToken' is defined 	1558723288364
+REQUEST	1		request_5	1558723288365	1558723288365	KO	j.n.UnknownHostException: electronics.local
+REQUEST	1		request_6	1558723288367	1558723288368	KO	j.n.UnknownHostException: electronics.local
+REQUEST	1		request_7	1558723288371	1558723288371	KO	j.n.UnknownHostException: electronics.local
+REQUEST	1		request_9	1558723288374	1558723288374	KO	j.n.UnknownHostException: electronics.local
+ERROR	request_10: Failed to build request: No attribute named 'requestVerificationToken' is defined 	1558723288382
+REQUEST	1		request_12	1558723288384	1558723288384	KO	j.n.UnknownHostException: electronics.local
+REQUEST	1		request_12	1558723288389	1558723288389	KO	j.n.UnknownHostException: electronics.local
+REQUEST	1		request_13	1558723288394	1558723288394	KO	j.n.UnknownHostException: electronics.local
+ERROR	request_14: Failed to build request: No attribute named 'requestVerificationToken' is defined 	1558723288396
+REQUEST	1		request_15	1558723288397	1558723288397	KO	j.n.UnknownHostException: electronics.local
+REQUEST	1		request_16	1558723288399	1558723288401	KO	j.n.UnknownHostException: electronics.local
+ERROR	request_17: Failed to build request: No attribute named 'requestVerificationToken' is defined 	1558723288414
+USER	AddToCart3	1	END	1558723237284	1558723288420

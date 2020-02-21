@@ -1,0 +1,10 @@
+{
+  "simulation": "LPS.LoginToGuestCheckout",
+  "simulationId": "logintoguestcheckout",
+  "start": 1564126424443,
+  "description": "",
+  "scenarios": ["LogInAsGuestCheckout"],
+  "assertions": [
+
+  ]
+}
